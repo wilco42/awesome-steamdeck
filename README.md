@@ -22,7 +22,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 - **Storage (external microSD)**
     - [microSD card guide spec explainer](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
-    - [Infographic on microSD specs](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/
+    - [Infographic on microSD specs](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
     - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
     - tl;dr - Get a U3 A2 UHS-I microSD card - the biggest you can afford
 
