@@ -85,7 +85,8 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
     - [Reddit thread on various games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
-    
+    - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
+
 - **Utilities**
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
