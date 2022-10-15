@@ -57,18 +57,6 @@ A collection of awesome things regarding Valve's Steam Deck.
     - tl;dr Steam Deck needs 45W delivery to charge and play games at the same time
 
 # Software Setup
-- **Utilities**
-    - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
-        - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
-        - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
-    - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
-    - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
-        - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
-            - GOverlay contains `vkBasalt` - enables vibrancy/reshade options
-        - [Unlock Steak Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay` to install GOverlay
-        - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
-    - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
-
 - **Non-Steam Game Installers**
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The Best `Epic Games` and `GOG` Game installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
@@ -97,3 +85,15 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
     - [Reddit thread on various games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
+    
+- **Utilities**
+    - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
+        - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
+        - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
+    - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
+    - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
+        - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
+            - GOverlay contains `vkBasalt` - enables vibrancy/reshade options
+        - [Unlock Steak Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay` to install GOverlay
+        - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
+    - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
