@@ -44,7 +44,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [ACEFAST GaN Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - PD65W USB-C, USB-A, 4K/UHD HDMI port, foldable plug
     - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - tiny, foldable plug
     - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
-    - [JSAUX Dock - 2 USA-A port](https://www.amazon.com/dp/B0B28PCDM2)
+    - [JSAUX Dock - 2 USB-A port](https://www.amazon.com/dp/B0B28PCDM2)
     - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
     - [90 Degree back-facing USB-C adapter](https://www.amazon.com/dp/B0B9T7X22Z) - USB adapter to point your cord to the back
     - tl;dr - lots of cheap USB-C docks work here as well
