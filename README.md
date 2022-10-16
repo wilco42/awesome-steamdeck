@@ -66,7 +66,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 # Software Setup
 - **Non-Steam Game Installers**
-    - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The Best `Epic Games` and `GOG` Game installer
+    - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
         - [Red Dead Redemption 2 Epic Games version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18
         - tl;dr Use this for Epic Games and GOG-based games - good support to add these non-Steams to your library, complete with cover art
