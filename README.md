@@ -21,7 +21,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - tl;dr - Make sure that it is a one-sided M.2 2230 form factor SSD
 
 - **Storage (external microSD)**
-    - [microSD card guide spec explainer](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
+    - [microSD card guide on specifications](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
     - [Infographic on microSD specs](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/
     - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
     - tl;dr - Get a U3 A2 UHS-I microSD card - the biggest you can afford
@@ -53,7 +53,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Power Banks**
     - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
     - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
-    - [Anker PowerCore+ - 45W 26,800mAh](https://www.amazon.com/dp/B07XRJZXKY/) - TSA/Airplane safe and includes a 60W PD Charger
+    - [Anker PowerCore+ - 45W 26,800mAh](https://www.amazon.com/dp/B07XRJZXKY/) - TSA/Airplane safe and includes a 60W PD Charger - expensive brand name option
     - tl;dr Steam Deck needs 45W delivery to charge and play games at the same time
 
 # Software Setup
@@ -70,21 +70,31 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [EmuDeck](https://www.emudeck.com/)
         - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/04/10/my-ultimate-steam-deck-emulation-setup/) - EmulationStation Desktop Edition
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
-        - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate the games
         - [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) - Adding non-Steam games in bulk with artwork
-        - [Nintendo Switch Emulator (Yuzu) Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
-        - [How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
-        - [Stuttering Audio wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
-        - [Stuttering Audio CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
-    - [Legend of Zelda: Breath of the Wild 40fps Guide](https://www.google.com/search?q=legend+of+zelda+breath+of+the+wild+40fps+guide+reddit) - should be the first result
+        - Note: microSDs must be formatted with the ext4 filesystem and is not readable by Windows.
+
+    - Emulator-specific
+        - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate games
+        - [Cemu](https://cemu.info/)
+            - [Cemu - Enable Gyroscope for Wii U](https://steamdeckhq.com/tips-and-guides/enable-gyroscope-for-cemu-on-deck/)
+            - [Legend of Zelda: Breath of the Wild 40fps Guide](https://www.google.com/search?q=legend+of+zelda+breath+of+the+wild+40fps+guide+reddit) - should be the first result
+            - [Shandell Explains' Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
+        - [PS1 and PS2 - Where to install BIOS files](https://www.reddit.com/r/SteamDeck/comments/ty18d4/emudeck_wont_run_psx_ps2_games/)
+        - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
+        - [Yuzu - Nintendo Switch Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
+
+    - General Emulation Performance Fixes
+        - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
+        - [Stuttering Audio - CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
 
 - **General Game Performance**
-    - [CryoByte33 explains swapfile and VRAM modifications](https://www.youtube.com/watch?v=3iivwka513Y)
+    - [CryoByte33 explains swapfile and VRAM modifications](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
         - [CryoByte33's swapfile resizer script](https://github.com/CryoByte33/steam-deck-swap-resizer)
         - [Increase your swapfile manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
-    - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
-    - [ShareDeck Game Settings](https://sharedeck.games/)
-    - [Reddit thread on various games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
+    - Optimal Game Settings
+        - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
+        - [ShareDeck Game Settings](https://sharedeck.games/)
+        - [Reddit thread on Games Settings](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
     
 - **Utilities**
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
@@ -97,3 +107,8 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [Unlock Steak Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay` to install GOverlay
         - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
     - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
+    - File Transfer to/from Steam Deck
+        - (Easy) [Warpinator/Winpinator](https://steamdeckhq.com/tips-and-guides/warpinator-wireless-transfer-from-windows/) - dedicated file sharing application installed on the Steam Deck and Windows PC
+        - (Medium) [Remote Samba Share](https://steamcommunity.com/app/1675200/discussions/0/3186865924590340398/#c3186865924600569501) - Steam Deck accessing remote servers via SMB
+        - (Medium) [Mount ext4 filesystems on Windows with WSL2](https://www.bleepingcomputer.com/news/microsoft/windows-10-now-lets-you-mount-linux-ext4-filesystems-in-wsl-2/) -  Good for mounting ext4-formatted microSDs on Windows
+        - (Hard) [SyncThing](https://www.gamingonlinux.com/2022/03/syncthing-is-a-great-way-to-transfer-files-from-pc-to-steam-deck/) | [Config](https://www.reddit.com/r/SteamDeck/comments/vocyi5/start_syncthing_automatically_on_steamdeck_even/) - Automatically sync folders on Steam Deck and remote machines
