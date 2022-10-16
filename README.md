@@ -60,11 +60,11 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Non-Steam Game Installers**
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The Best `Epic Games` and `GOG` Game installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
+        - [Red Dead Redemption 2 Epic Games version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18
         - tl;dr Use this for Epic Games and GOG-based games - good support to add these non-Steams to your library, complete with cover art
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
         - Supports many game launchers including `Origin Games` and `Amazon Prime Gaming`
-    - [Red Dead Redemption 2 Epic Games version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18
 
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
