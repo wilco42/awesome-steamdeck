@@ -36,6 +36,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [MagGlass Matte anti-glare etched glass screen protector](https://www.amazon.com/dp/B09X82S4XL/)
         - [Before and after off angle](https://www.reddit.com/r/SteamDeck/comments/tzgylh/before_and_after_applying_the_magglass_antiglare/)
         - [Before and after head on](https://www.reddit.com/r/SteamDeck/comments/w7i365/just_receiced_my_magglass_matte_screen_protector/)
+        - [MagGlass comparison pictures](https://www.reddit.com/r/SteamDeck/comments/y4xs7s/magglass_strong_avoid_if_you_want_to_retain_any/)
         - tl;dr - divided opinions on whether people like the matte glass and how it affects color and clarity
 
 - **Case**
@@ -53,12 +54,14 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [90 Degree back-facing USB-C adapter](https://www.amazon.com/dp/B0B9T7X22Z) - USB adapter to point your cord to the back
     - tl;dr - lots of cheap USB-C docks work here as well
 
-
 - **Power Banks**
     - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
     - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
     - [Anker PowerCore+ - 45W 26,800mAh](https://www.amazon.com/dp/B07XRJZXKY/) - TSA/Airplane safe and includes a 60W PD Charger - expensive brand name option
     - tl;dr Steam Deck needs 45W delivery to charge and play games at the same time
+
+- **Controllers**
+  - [How to connect an external controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
 
 # Software Setup
 - **Non-Steam Game Installers**
