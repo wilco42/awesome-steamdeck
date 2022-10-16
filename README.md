@@ -4,12 +4,14 @@ A collection of awesome things regarding Valve's Steam Deck.
 ## General Guides
 - [Wagner's Tech Talk Steam Deck Guide](https://wagnerstechtalk.com/steamdeck/) - General overview
 - [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Overview, Accessories, and Steam Development info
-
-## 64/256GB vs. 512GB screen comparisons
-- [NerdNest's outdoor comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
-- [RetroGameCorps's 64GB vs 512GB models comparison](https://www.youtube.com/watch?v=jApCGIFS1JI) - indoor color comparison
-- [Tech Nuovo's outdoor comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
-
+- Which Steam Deck to Buy?
+    - 64/256GB glossy screen vs. 512GB etched glass screen comparisons
+        - [NerdNest's outdoor comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
+        - [RetroGameCorps's 64GB vs 512GB models comparison](https://www.youtube.com/watch?v=jApCGIFS1JI) - indoor color comparison
+        - [Tech Nuovo's outdoor comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
+    - [256GB/512GB SSD vs. 64GB eMMC vs microSD](https://www.youtube.com/watch?v=4AIY5wH77Po)
+    - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/) - Shader Cache is stored in internal storage
+    
 ## Accessories
 - **Storage (internal SSD)**
     - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
