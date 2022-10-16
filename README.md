@@ -22,7 +22,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 - **Storage (external microSD)**
     - [microSD card guide on specifications](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
-    - [Infographic on microSD specs](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/
+    - [Infographic on microSD specs](https://www.reddit.com/r/SteamDeck/comments/tgzepn/just_as_info_i_know_there_are_alot_of_experts/)
     - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
     - tl;dr - Get a U3 A2 UHS-I microSD card - the biggest you can afford
 
@@ -91,11 +91,11 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [CryoByte33 explains swapfile and VRAM modifications](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
         - [CryoByte33's swapfile resizer script](https://github.com/CryoByte33/steam-deck-swap-resizer)
         - [Increase your swapfile manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
-    - Optimal Game Settings
-        - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
-        - [ShareDeck Game Settings](https://sharedeck.games/)
-        - [Reddit thread on Games Settings](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
-    
+    - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
+    - [ShareDeck Game Settings](https://sharedeck.games/)
+    - [Reddit thread on various games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
+    - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
+
 - **Utilities**
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
