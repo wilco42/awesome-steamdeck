@@ -58,7 +58,8 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
     - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
     - [Anker PowerCore+ - 45W 26,800mAh](https://www.amazon.com/dp/B07XRJZXKY/) - TSA/Airplane safe and includes a 60W PD Charger - expensive brand name option
-    - tl;dr Steam Deck needs 45W delivery to charge and play games at the same time
+    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
+    - tl;dr Steam Deck charges at 15V and needs 45W delivery to charge and play games at the same time
 
 - **Controllers**
   - [How to connect an external controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
