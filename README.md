@@ -83,13 +83,17 @@ A collection of awesome things regarding Valve's Steam Deck.
 
     - Emulator-specific
         - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate games
-        - [Cemu](https://cemu.info/)
+        - [Cemu - Wii U Emulator](https://cemu.info/)
             - [Cemu - Enable Gyroscope for Wii U](https://steamdeckhq.com/tips-and-guides/enable-gyroscope-for-cemu-on-deck/)
             - [Legend of Zelda: Breath of the Wild 40fps Guide](https://www.google.com/search?q=legend+of+zelda+breath+of+the+wild+40fps+guide+reddit) - should be the first result
             - [Shandell Explains' Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
         - [PS1 and PS2 - Where to install BIOS files](https://www.reddit.com/r/SteamDeck/comments/ty18d4/emudeck_wont_run_psx_ps2_games/)
-        - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
-        - [Yuzu - Nintendo Switch Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
+        - [RPCS3 - PS3 Emulator](https://rpcs3.net/)
+            - [DJ Hero turntable support](https://wiki.rpcs3.net/index.php?title=Help:Peripherals_and_accessories)
+        - [ScummVM](https://www.scummvm.org/)
+            - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
+        - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
+            - [Yuzu  Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
 
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
