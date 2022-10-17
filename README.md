@@ -15,7 +15,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 ## Accessories
 - **Storage (internal SSD)**
-    - Internal SSD Upgrade Guide
+    - Internal SSD Upgrade
         - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
         - [Tech Thusiast's Guide on How to Upgrade the SSD](https://www.youtube.com/watch?v=pwEo2qwPfig)
         - [Lawrence Yang's (Valve Designer) Warning on 2242-sized Upgrades](https://twitter.com/lawrenceyang/status/1540863166438969345)
