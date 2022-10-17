@@ -38,7 +38,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [Before and After Off-angle](https://www.reddit.com/r/SteamDeck/comments/tzgylh/before_and_after_applying_the_magglass_antiglare/)
         - [Before and After Head-on](https://www.reddit.com/r/SteamDeck/comments/w7i365/just_receiced_my_magglass_matte_screen_protector/)
         - [MagGlass Comparison Pictures](https://www.reddit.com/r/SteamDeck/comments/y4xs7s/magglass_strong_avoid_if_you_want_to_retain_any/)
-        - tl;dr - Divided opinions on whether people like the matte glass and how it affects color and clarity
+    - tl;dr - Divided opinions on whether people like the matte glass protector and how it affects color and clarity
 
 - **Case**
     - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/)
@@ -66,7 +66,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Non-Steam Game Installers**
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
-        - [Red Dead Redemption 2 Epic Games Version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18
+        - [Red Dead Redemption 2 Epic Games Version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18 bug
         - tl;dr Use this for `Epic Games` and `GOG`-based games
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
@@ -76,7 +76,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [EmuDeck](https://www.emudeck.com/)
         - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
-        - [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) - Adding non-Steam games in bulk with artwork
+        - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - Managing ROMs in Steam
 
     - Emulator-specific
         - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate games
