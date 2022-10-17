@@ -9,7 +9,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [NerdNest's outdoor comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
         - [RetroGameCorps's 64GB vs 512GB models comparison](https://www.youtube.com/watch?v=jApCGIFS1JI) - indoor color comparison
         - [Tech Nuovo's outdoor comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
-    - [256GB/512GB SSD vs. 64GB eMMC vs microSD](https://www.youtube.com/watch?v=4AIY5wH77Po)
+    - [256GB/512GB SSD vs. 64GB eMMC vs microSD](https://www.youtube.com/watch?v=4AIY5wH77Po) - storage speed comparisons
     - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/) - Shader Cache is stored in internal storage
         - [Semi-OK hack to move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
