@@ -2,15 +2,15 @@
 A collection of awesome things regarding Valve's Steam Deck.
 
 ## General Guides
-- [Wagner's Tech Talk Steam Deck Guide](https://wagnerstechtalk.com/steamdeck/) - General overview
-- [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Overview, accessories, and Steam development info
+- [Wagner's Tech Talk Steam Deck Guide](https://wagnerstechtalk.com/steamdeck/)
+- [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
 - Which Steam Deck to Buy?
     - [64/256GB Glossy Screen vs. 512GB Etched Glass Screen](https://www.reddit.com/r/SteamDeck/comments/ozcp0z/steam_deck_glass_vs_antiglare_etched_glass/)
+        - [RetroGameCorps's 64GB vs 512GB Model Comparison (Indoors)](https://www.youtube.com/watch?v=jApCGIFS1JI)
         - [NerdNest's Outdoor Comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
-        - [RetroGameCorps's 64GB vs 512GB Model Comparison](https://www.youtube.com/watch?v=jApCGIFS1JI) - Indoor color comparison
         - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
     - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
-    - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/) - Shader cache is stored in internal storage
+    - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/)
         - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
 ## Accessories
@@ -49,15 +49,14 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Chargers and Docks**
     - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
     - [ACEFAST GaN Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock
-    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - tiny charger
+    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - Tiny charger
     - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
     - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
-    - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z) - USB adapter to point your cord to the back
+    - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z)
 
 - **Power Banks**
     - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
     - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
-
 
 - **Controllers**
   - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
@@ -66,11 +65,19 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Non-Steam Game Installers**
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
-        - [Red Dead Redemption 2 Epic Games Version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18 bug
+        - [Red Dead Redemption 2 Epic Games Version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the Error 18 issue
         - tl;dr Use this for `Epic Games` and `GOG`-based games
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
         - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
+
+- **General Game Performance**
+    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
+        - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
+    - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
+    - [ShareDeck Game Settings](https://sharedeck.games/)
+    - [Reddit Thread on Various Games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
+    - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
 
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
@@ -79,7 +86,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - Managing ROMs in Steam
 
     - Emulator-specific
-        - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate games
+        - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - some emulators need the console's BIOS to emulate games
         - [Cemu - Wii U Emulator](https://cemu.info/)
             - [Cemu - Enable Gyroscope for Wii U](https://steamdeckhq.com/tips-and-guides/enable-gyroscope-for-cemu-on-deck/)
             - [Shandell Explains's Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
@@ -95,14 +102,6 @@ A collection of awesome things regarding Valve's Steam Deck.
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
         - [Stuttering Audio - CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
-
-- **General Game Performance**
-    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
-        - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
-    - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
-    - [ShareDeck Game Settings](https://sharedeck.games/)
-    - [Reddit Thread on Various Games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
-    - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
 
 - **Utilities**
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
@@ -122,3 +121,4 @@ A collection of awesome things regarding Valve's Steam Deck.
         - (Medium) [Remote Samba Share](https://steamcommunity.com/app/1675200/discussions/0/3186865924590340398/#c3186865924600569501) - Steam Deck accessing remote servers via SMB
         - (Medium) [Mount ext4 Filesystems on Windows with WSL2](https://www.bleepingcomputer.com/news/microsoft/windows-10-now-lets-you-mount-linux-ext4-filesystems-in-wsl-2/) -  Good for mounting ext4-formatted microSDs on Windows
         - (Hard) [SyncThing](https://www.gamingonlinux.com/2022/03/syncthing-is-a-great-way-to-transfer-files-from-pc-to-steam-deck/) | [Config](https://www.reddit.com/r/SteamDeck/comments/vocyi5/start_syncthing_automatically_on_steamdeck_even/) - Automatically sync folders on Steam Deck and remote machines
+    - [Advanced Steam Deck Tips and Tricks](https://gitlab.com/popsulfr/steam-deck-tricks)
