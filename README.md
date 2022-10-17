@@ -22,7 +22,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [PSA: Remove your MicroSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
     - [eBay Search for "M.2 2230 SSD" Drives](https://www.ebay.com/sch/i.html?_nkw=m.2+2230+ssd)
     - Popular brands: Kioxia (Toshiba), Kingston, Western Digital, SK Hynix
-    - tl;dr - Make sure that it is a one-sided M.2 2230 form factor SSD
+    - tl;dr - Make sure that it is a single-sided M.2 2230 form factor SSD
 
 - **Storage (external microSD)**
     - [microSD Card Specs Guide](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
