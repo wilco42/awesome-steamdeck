@@ -9,7 +9,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [NerdNest's Outdoor Comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
         - [RetroGameCorps's 64GB vs 512GB Model Comparison](https://www.youtube.com/watch?v=jApCGIFS1JI) - Indoor color comparison
         - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
-    - [256GB/512GB SSD vs. 64GB eMMC vs microSD](https://www.youtube.com/watch?v=4AIY5wH77Po) - Storage speed comparisons
+    - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
     - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/) - Shader cache is stored in internal storage
         - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
@@ -17,7 +17,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Storage (internal SSD)**
     - Internal SSD Upgrade Guide
         - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
-        - [Tech Thusiast's How to Upgrade the SSD YouTube Video](https://www.youtube.com/watch?v=pwEo2qwPfig)
+        - [Tech Thusiast's Guide on How to Upgrade the SSD](https://www.youtube.com/watch?v=pwEo2qwPfig)
         - [Lawrence Yang's (Valve Designer) Warning on 2242-sized Upgrades](https://twitter.com/lawrenceyang/status/1540863166438969345)
     - [PSA: Remove your MicroSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
     - [eBay Search for "M.2 2230 SSD Drives"](https://www.ebay.com/sch/i.html?_nkw=2230+ssd)
@@ -29,7 +29,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Infographic on microSD Specs](https://www.reddit.com/r/SteamDeck/comments/tgzepn/just_as_info_i_know_there_are_alot_of_experts/)
     - [Steam Deck Tech Specs](https://store.steampowered.com/steamdeck#SaleSection_24468) - UHS-I controller
     - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
-    - tl;dr - Get a U3 A2 UHS-I microSD card - the biggest you can afford
+    - tl;dr - Get a reputable U3 A2 UHS-I microSD card
 
 - **Screen protector**
     - [For 512GB owners - Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
@@ -41,26 +41,23 @@ A collection of awesome things regarding Valve's Steam Deck.
         - tl;dr - Divided opinions on whether people like the matte glass and how it affects color and clarity
 
 - **Case**
-    - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/) - Holds Steam Deck, charger, external battery, and a controller with a shoulder strap
+    - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/)
     - [MVRPDXC Sling Bag-style Case](https://www.amazon.com/dp/B0B2QRVPGL/)
     - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
     - [JSAUX Carrying Case](https://www.amazon.com/dp/B09ZB1RZ2G/)
 
 - **Chargers and Docks**
-    - [ACEFAST GaN Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - PD65W USB-C, USB-A, 4K/UHD HDMI port, foldable plug
-    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - tiny, foldable plug
+    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
+    - [ACEFAST GaN Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock
+    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - tiny charger
     - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
-    - [JSAUX Dock - 2 USB-A port](https://www.amazon.com/dp/B0B28PCDM2)
     - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
     - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z) - USB adapter to point your cord to the back
-    - Lots of cheap USB-C docks work fine
 
 - **Power Banks**
     - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
     - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
-    - [Anker PowerCore+ - 45W 26,800mAh](https://www.amazon.com/dp/B07XRJZXKY/) - TSA/Airplane safe and includes a 60W PD Charger - expensive brand name option
-    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
-    - tl;dr Steam Deck charges at 15V and needs 45W delivery to charge and play games at the same time
+
 
 - **Controllers**
   - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
@@ -70,39 +67,37 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
         - [Red Dead Redemption 2 Epic Games Version](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Fixing the dreaded Error 18
-        - tl;dr Use this for Epic Games and GOG-based games - good support to add these non-Steams to your library, complete with cover art
+        - tl;dr Use this for `Epic Games` and `GOG`-based games
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
-        - Supports many game launchers including `Origin Games` and `Amazon Prime Gaming`
+        - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
 
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
-        - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/) - EmulationStation Desktop Edition
+        - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
         - [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) - Adding non-Steam games in bulk with artwork
-        - Note: microSDs must be formatted with the ext4 filesystem and is not readable by Windows.
 
     - Emulator-specific
         - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - should be the first result - some emulators need the console's BIOS to emulate games
         - [Cemu - Wii U Emulator](https://cemu.info/)
             - [Cemu - Enable Gyroscope for Wii U](https://steamdeckhq.com/tips-and-guides/enable-gyroscope-for-cemu-on-deck/)
-            - [Legend of Zelda: Breath of the Wild 40fps Guide](https://www.google.com/search?q=legend+of+zelda+breath+of+the+wild+40fps+guide+reddit) - should be the first result
-            - [Shandell Explains' Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
+            - [Shandell Explains's Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
+            - [Legend of Zelda: Breath of the Wild 40fps Guide](https://www.reddit.com/r/SteamDeck/comments/uv0us5/updated_guide_to_get_legend_of_zelda_breath_of/)
         - [PS1 and PS2 - Where to Install BIOS files](https://www.reddit.com/r/SteamDeck/comments/ty18d4/emudeck_wont_run_psx_ps2_games/)
         - [RPCS3 - PS3 Emulator](https://rpcs3.net/)
             - [DJ Hero turntable support](https://wiki.rpcs3.net/index.php?title=Help:Peripherals_and_accessories)
         - [ScummVM](https://www.scummvm.org/)
             - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
         - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
-            - [Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
+            - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
 
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
         - [Stuttering Audio - CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
 
 - **General Game Performance**
-    - [CryoByte33 Explains swapfile and VRAM Modifications](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
-        - [CryoByte33's swapfile Resizer Script](https://github.com/CryoByte33/steam-deck-swap-resizer)
+    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
         - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
@@ -113,6 +108,8 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
+    - [Crankshaft](https://crankshaft.space/)
+        - [Steam Deck HQ Guide to Crankshaft](https://steamdeckhq.com/tips-and-guides/crankshaft-a-steam-deck-plugin/) - Add ProtonDB indicator to games
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
     - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
         - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
