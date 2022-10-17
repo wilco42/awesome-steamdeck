@@ -86,7 +86,6 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - Managing ROMs in Steam
 
     - Emulator-specific
-        - [Retroarch BIOS Pack](https://www.google.com/search?q=Retroarch+BIOS+Pack+2022) - some emulators need the console's BIOS to emulate games
         - [Cemu - Wii U Emulator](https://cemu.info/)
             - [Cemu - Enable Gyroscope for Wii U](https://steamdeckhq.com/tips-and-guides/enable-gyroscope-for-cemu-on-deck/)
             - [Shandell Explains's Wii U USB Helper Guide](https://www.youtube.com/watch?v=YBNRJJK0KHo)
