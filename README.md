@@ -64,7 +64,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 - **Controllers**
   - [How to connect an external controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
 
-# Software Setup
+## Software Setup
 - **Non-Steam Game Installers**
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
