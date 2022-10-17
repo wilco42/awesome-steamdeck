@@ -76,7 +76,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
-        - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/04/10/my-ultimate-steam-deck-emulation-setup/) - EmulationStation Desktop Edition
+        - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/) - EmulationStation Desktop Edition
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
         - [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) - Adding non-Steam games in bulk with artwork
         - Note: microSDs must be formatted with the ext4 filesystem and is not readable by Windows.
