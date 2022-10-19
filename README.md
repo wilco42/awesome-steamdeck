@@ -97,11 +97,13 @@ A collection of awesome things regarding Valve's Steam Deck.
             - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
         - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
             - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
-
+    
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
         - [Stuttering Audio - CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
-
+ 
+   - [Steam Deck Emulation Games Database](https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit#gid=1989583881)
+ 
 - **Utilities**
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
