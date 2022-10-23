@@ -73,7 +73,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 - **Steam Setup**
     - [Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
-        - [SteamGridDB - custom video game assets](https://www.steamgriddb.com/)
+        - [SteamGridDB - Grid, Hero, Logo, Icon Assets](https://www.steamgriddb.com/)
 
 - **General Game Performance**
     - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
