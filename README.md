@@ -71,6 +71,10 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
         - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
 
+- **Steam Setup**
+    - [Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
+        - [SteamGridDB - custom video game assets](https://www.steamgriddb.com/)
+
 - **General Game Performance**
     - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
         - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
