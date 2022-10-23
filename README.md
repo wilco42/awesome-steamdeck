@@ -19,7 +19,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
         - [Tech Thusiast's Guide on How to Upgrade the SSD](https://www.youtube.com/watch?v=pwEo2qwPfig)
         - [Lawrence Yang's (Valve Designer) Warning on 2242-sized Upgrades](https://twitter.com/lawrenceyang/status/1540863166438969345)
-    - [PSA: Remove your MicroSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
+    - [PSA: Remove your microSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
     - [eBay Search for "M.2 2230 SSD" Drives](https://www.ebay.com/sch/i.html?_nkw=m.2+2230+ssd)
     - Popular brands: Kioxia (Toshiba), Kingston, Western Digital, SK Hynix
     - tl;dr - Make sure that it is a single-sided M.2 2230 form factor SSD
