@@ -88,6 +88,7 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
         - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - Managing ROMs in Steam
+        - [Flatseal - Allow File System Access Outside of Flatpak Sandboxes](https://www.reddit.com/r/SteamDeck/comments/sr2915/steam_deck_emulators/)
 
     - Emulator-specific
         - [Cemu - Wii U Emulator](https://cemu.info/)
