@@ -78,8 +78,9 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [SteamGridDB - Grid, Hero, Logo, Icon Assets](https://www.steamgriddb.com/)
 
 - **General Game Performance**
-    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y) - 16GB swapfile, 4GB UMA VRAM BIOS setting
+    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y)
         - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
+        - [CryoByte33's updated Performance Boosts Settings post-SteamOS 3.3.2](https://www.youtube.com/watch?v=epmYVEn97ac)
     - [Why the 40fps Hype is Real](https://www.reddit.com/r/SteamDeck/comments/udthpo/confusion_regarding_the_40hz_hype/) - The frametime and power consumption sweet spot
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
