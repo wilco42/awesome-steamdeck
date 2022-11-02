@@ -1,3 +1,4 @@
+
 # awesome-steamdeck ![awesome-steamdeck!](https://img.shields.io/badge/awesome-steam%20deck-blue "awesome steam deck badge")
 A collection of awesome things regarding Valve's Steam Deck.
 
@@ -117,6 +118,12 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
+        - [CSS Loader](https://github.com/suchmememanyskill/SDH-CssLoader) - installed in the Decky Marketplace, allows you to loads CSS (themes) dynamically into the steam deck game ui
+        - [Audio Loader](https://github.com/EMERALD0874/SDH-AudioLoader) - installed in the Decky Marketplace, allows you to replace Steam UI sound effects with custom sounds and adds music to menus. 
+        You can create your own pack on [SDeckFX](https://sdeckfx.com/)
+        - [System Toolbox](https://github.com/WerWolv/SDH-SystemToolbox) - installed in the Decky Marketplace, it's plugin containing various settings useful for tinkerers
+        - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - installed in the Decky Marketplace, it's plugin to adjust screen saturation / vibrancy
+        - [ProtonDB Badges](https://github.com/OMGDuke/protondb-decky) - installed in the Decky Marketplace, display tappable ProtonDB badges on your game pages
     - [Crankshaft](https://crankshaft.space/)
         - [Steam Deck HQ Guide to Crankshaft](https://steamdeckhq.com/tips-and-guides/crankshaft-a-steam-deck-plugin/) - Add ProtonDB indicator to games
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
