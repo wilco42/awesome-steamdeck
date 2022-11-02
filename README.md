@@ -1,4 +1,5 @@
 
+
 # awesome-steamdeck ![awesome-steamdeck!](https://img.shields.io/badge/awesome-steam%20deck-blue "awesome steam deck badge")
 A collection of awesome things regarding Valve's Steam Deck.
 
@@ -72,7 +73,9 @@ A collection of awesome things regarding Valve's Steam Deck.
         - tl;dr Use this for `Epic Games` and `GOG`-based games
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
-        - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
+    - [GDLauncher](https://lutris.net/) - Best minecraft launcher supporting Vanilla, Fabric, Forge and FTB builds.
+        - Use [this CruseForge build](https://www.curseforge.com/minecraft/modpacks/steam-deck-vanilla) to have controller mod working right out of the box, and [this tutorial](https://www.youtube.com/watch?v=ky7-vdorVC0) to know the basics/to set it up.
+    - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
 
 - **Steam Setup**
     - [Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
