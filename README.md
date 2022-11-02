@@ -127,6 +127,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Crankshaft](https://crankshaft.space/)
         - [Steam Deck HQ Guide to Crankshaft](https://steamdeckhq.com/tips-and-guides/crankshaft-a-steam-deck-plugin/) - Add ProtonDB indicator to games
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
+    - [sd-ge-proton-updater](https://github.com/intrand/sd-ge-proton-updater) - Tool to automatically check and eventually download any new GE-Proton version.
     - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
         - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
             - GOverlay contains `vkBasalt` - enables vibrancy/reshade options
