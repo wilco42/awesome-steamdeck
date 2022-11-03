@@ -127,7 +127,8 @@ A collection of awesome things regarding Valve's Steam Deck.
         - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
     - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
     - File Transfer to/from Steam Deck
-        - (Easy) [Warpinator/Winpinator](https://steamdeckhq.com/tips-and-guides/warpinator-wireless-transfer-from-windows/) - dedicated file sharing application installed on the Steam Deck and Windows PC
+        - (Easy) [Warpinator/Winpinator](https://steamdeckhq.com/tips-and-guides/warpinator-wireless-transfer-from-windows/) - dedicated file sharing application installed on the Steam Deck and Windows PC\
+        - (Medium) [croc / scp for linux](https://github.com/schollz/croc) - simple file/folder sharing over the command line
         - (Medium) [Remote Samba Share](https://steamcommunity.com/app/1675200/discussions/0/3186865924590340398/#c3186865924600569501) - Steam Deck accessing remote servers via SMB
         - (Medium) [Mount ext4 Filesystems on Windows with WSL2](https://www.bleepingcomputer.com/news/microsoft/windows-10-now-lets-you-mount-linux-ext4-filesystems-in-wsl-2/) -  Good for mounting ext4-formatted microSDs on Windows
         - (Hard) [SyncThing](https://www.gamingonlinux.com/2022/03/syncthing-is-a-great-way-to-transfer-files-from-pc-to-steam-deck/) | [Config](https://www.reddit.com/r/SteamDeck/comments/vocyi5/start_syncthing_automatically_on_steamdeck_even/) - Automatically sync folders on Steam Deck and remote machines
