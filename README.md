@@ -72,6 +72,9 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
         - [Dexerto Guide to Installing Lutris](https://www.dexerto.com/tech/how-to-install-epic-games-on-steam-deck-1894333/)
         - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
+    - [GDLauncher](https://gdlauncher.com/) - Best Minecraft launcher supporting Vanilla, Fabric, Forge and FTB builds
+        - [Gardiner Bryant's Guide to Install Minecraft on your Steam Deck](https://www.youtube.com/watch?v=ky7-vdorVC0)
+
 
 - **Steam Setup**
     - [Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
@@ -117,6 +120,7 @@ A collection of awesome things regarding Valve's Steam Deck.
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
+        - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - installed in the Decky Marketplace, allows you to adjust screen saturation / vibrancy
     - [Crankshaft](https://crankshaft.space/)
         - [Steam Deck HQ Guide to Crankshaft](https://steamdeckhq.com/tips-and-guides/crankshaft-a-steam-deck-plugin/) - Add ProtonDB indicator to games
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
