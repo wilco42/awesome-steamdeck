@@ -127,8 +127,6 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - installed in the Decky Marketplace, allows you to adjust CPU and GPU limits
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
         - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - installed in the Decky Marketplace, allows you to adjust screen saturation / vibrancy
-    - [Crankshaft](https://crankshaft.space/)
-        - [Steam Deck HQ Guide to Crankshaft](https://steamdeckhq.com/tips-and-guides/crankshaft-a-steam-deck-plugin/) - Add ProtonDB indicator to games
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
     - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
         - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
