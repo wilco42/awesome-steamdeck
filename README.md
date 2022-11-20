@@ -139,6 +139,8 @@ A collection of awesome things regarding Valve's Steam Deck.
         - (Medium) [Remote Samba Share](https://steamcommunity.com/app/1675200/discussions/0/3186865924590340398/#c3186865924600569501) - Steam Deck accessing remote servers via SMB
         - (Medium) [Mount ext4 Filesystems on Windows with WSL2](https://www.bleepingcomputer.com/news/microsoft/windows-10-now-lets-you-mount-linux-ext4-filesystems-in-wsl-2/) -  Good for mounting ext4-formatted microSDs on Windows
         - (Hard) [SyncThing](https://www.gamingonlinux.com/2022/03/syncthing-is-a-great-way-to-transfer-files-from-pc-to-steam-deck/) | [Config](https://www.reddit.com/r/SteamDeck/comments/vocyi5/start_syncthing_automatically_on_steamdeck_even/) - Automatically sync folders on Steam Deck and remote machines
-    - [Advanced Steam Deck Tips and Tricks](https://gitlab.com/popsulfr/steam-deck-tricks)
+
+- **Developer / Linux Tools**
+    - [popsulfr's Advanced Steam Deck Tips and Tricks](https://gitlab.com/popsulfr/steam-deck-tricks)
     - [Distrobox](https://distrobox.privatedns.org/) - Use any Linux distribution inside your terminal.
         - [GamingOnLinux's Guide to Distrobox on the Steam Deck](https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/)
