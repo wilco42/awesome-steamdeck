@@ -107,8 +107,14 @@ A collection of awesome things regarding Valve's Steam Deck.
             - [DJ Hero turntable support](https://wiki.rpcs3.net/index.php?title=Help:Peripherals_and_accessories)
         - [ScummVM](https://www.scummvm.org/)
             - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
-        - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
-            - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
+        - Nintendo Switch Emulation
+            - [Switch Emulation on Deck: Ryujinx vs. Yuzu Tested](https://linuxgamingcentral.com/posts/ryujinx-vs-yuzu-tested-on-deck/)
+            - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
+                - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
+                - [Yuzu Games Compatibility List](https://yuzu-emu.org/game/)
+            - [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
+                - [Mr. Sujano's Ryujinx Emulator Guide](https://www.youtube.com/watch?v=kwAI9tO_fQ8)
+                - [Ryujinx Games Compatibility List](https://github.com/Ryujinx/Ryujinx-Games-List/issues)
     
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
