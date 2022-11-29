@@ -133,11 +133,6 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - installed in the Decky Marketplace, allows you to download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
         - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - installed in the Decky Marketplace, allows you to adjust screen saturation / vibrancy
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
-    - [MangoHUD](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring system stats
-        - [GOverlay](https://github.com/benjamimgois/goverlay) - Overlay manager
-            - GOverlay contains `vkBasalt` - enables vibrancy/reshade options
-        - [Unlock Steam Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay` to install GOverlay
-        - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
     - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
     - File Transfer to/from Steam Deck
         - (Easy) [Warpinator/Winpinator](https://steamdeckhq.com/tips-and-guides/warpinator-wireless-transfer-from-windows/) - dedicated file sharing application installed on the Steam Deck and Windows PC
@@ -149,3 +144,5 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [popsulfr's Advanced Steam Deck Tips and Tricks](https://gitlab.com/popsulfr/steam-deck-tricks)
     - [Distrobox](https://distrobox.privatedns.org/) - Use any Linux distribution inside your terminal.
         - [GamingOnLinux's Guide to Distrobox on the Steam Deck](https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/)
+    - [Unlock Steam Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay`
+        - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
