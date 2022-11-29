@@ -77,7 +77,7 @@ A collection of awesome things regarding Valve's Steam Deck.
 
 
 - **Steam Setup**
-    - [Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
+    - [MonroeWorld's Guide to Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
         - [SteamGridDB - Grid, Hero, Logo, Icon Assets](https://www.steamgriddb.com/)
 
 - **General Game Performance**
