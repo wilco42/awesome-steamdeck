@@ -1,17 +1,21 @@
-# awesome-steamdeck ![awesome-steamdeck!](https://img.shields.io/badge/awesome-steam%20deck-blue "awesome steam deck badge")
-A collection of awesome things regarding Valve's Steam Deck.
+# awesome-steamdeck [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome things regarding Valve's Steam Deck.
 
 ## General Guides
 - [Wagner's Tech Talk Steam Deck Guide](https://wagnerstechtalk.com/steamdeck/)
 - [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
-- Which Steam Deck to Buy?
+
+## Which Steam Deck Should I Buy?
+- **The Glossy vs. Etched Glass Debate**
     - [64/256GB Glossy Screen vs. 512GB Etched Glass Screen](https://www.reddit.com/r/SteamDeck/comments/ozcp0z/steam_deck_glass_vs_antiglare_etched_glass/)
         - [RetroGameCorps's 64GB vs 512GB Model Comparison (Indoors)](https://www.youtube.com/watch?v=jApCGIFS1JI)
         - [NerdNest's Outdoor Comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
         - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
+- **Speed Differences of Internal Storage Options**
     - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
+ - **Limitations of the 64GB Model**
     - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/)
-        - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
+    - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
 ## Accessories
 - **Storage (internal SSD)**
@@ -41,16 +45,17 @@ A collection of awesome things regarding Valve's Steam Deck.
     - tl;dr - Divided opinions on whether people like the matte glass protector and how it affects color and clarity
 
 - **Case**
-    - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/)
+    - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/) - Larger Pouch with Shoulder Strap
     - [MVRPDXC Sling Bag-style Case](https://www.amazon.com/dp/B0B2QRVPGL/)
     - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
     - [JSAUX Carrying Case](https://www.amazon.com/dp/B09ZB1RZ2G/)
 
 - **Chargers and Docks**
-    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
-    - [ACEFAST GaN Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock
-    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - Tiny charger
+    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/) - Everything you need to know about charging your Steam Deck
+    - [ACEFAST GaN 65W Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock with USB-C, USB-A, and 4K/HD HDMI
+    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - The tiniest charger for your Steam Deck
     - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
+    - [JSAUX Stand Base](https://www.amazon.com/dp/B09YY1NSBX) - Just a stand, not a dock with silicone padding
     - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
     - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z)
 
@@ -81,9 +86,9 @@ A collection of awesome things regarding Valve's Steam Deck.
         - [SteamGridDB - Grid, Hero, Logo, Icon Assets](https://www.steamgriddb.com/)
 
 - **General Game Performance**
-    - [CryoByte33 Explaining Performance Boosts with swapfile and VRAM Mods](https://www.youtube.com/watch?v=3iivwka513Y)
+    - [CryoByte33 Explaining Performance Boosts with swapfile, swappiness, and VRAM mods post-SteamOS 3.3.2](https://www.youtube.com/watch?v=od9_a1QQQns)
+        - [CryoByte33's CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - User-friendly scripts to adjust swapfile, swappiness, and TRIM
         - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
-        - [CryoByte33's updated Performance Boosts Settings post-SteamOS 3.3.2](https://www.youtube.com/watch?v=od9_a1QQQns)
     - [Why the 40fps Hype is Real](https://www.reddit.com/r/SteamDeck/comments/udthpo/confusion_regarding_the_40hz_hype/) - The frametime and power consumption sweet spot
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
