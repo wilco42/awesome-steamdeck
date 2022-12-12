@@ -145,3 +145,4 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Distrobox](https://distrobox.privatedns.org/) - Use any Linux distribution inside your terminal.
         - [GamingOnLinux's Guide to Distrobox on the Steam Deck](https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/)
     - [Rwfus](https://github.com/ValShaped/rwfus) - Use pacman on the Steam Deck without losing packages when the next update comes out
+    - [Automatically update installed flatpaks](https://www.reddit.com/r/SteamDeck/comments/zis9sf/psa_automatically_update_installed_flatpaks/) - setup systemd timers to update flatpaks
