@@ -144,5 +144,4 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [popsulfr's Advanced Steam Deck Tips and Tricks](https://gitlab.com/popsulfr/steam-deck-tricks)
     - [Distrobox](https://distrobox.privatedns.org/) - Use any Linux distribution inside your terminal.
         - [GamingOnLinux's Guide to Distrobox on the Steam Deck](https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/)
-    - [Unlock Steam Deck](https://christitus.com/unlock-steam-deck/) - Instructions on how to install `yay`
-        - PSA: All Arch User Repository apps installed via `yay` or `pacman` will be wiped on SteamOS updates
+    - [Rwfus](https://github.com/ValShaped/rwfus) - Use pacman on the Steam Deck without losing packages when the next update comes out
