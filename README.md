@@ -128,8 +128,9 @@ A curated list of awesome things regarding Valve's Steam Deck.
    - [Steam Deck Emulation Games Database](https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit#gid=1989583881)
  
 - **Utilities**
-    - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader)
+    - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader) - All plugins installed in the Decky Marketplace
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - Download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
+        - [AutoFlatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - Manage Flatpaks within gaming mode
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - Adjust CPU and GPU limits
         - [SteamGridDB](https://github.com/SteamGridDB/decky-steamgriddb) - Manage Steam artwork from within gaming mode
         - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - Adjust screen saturation / vibrancy
