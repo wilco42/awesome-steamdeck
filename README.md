@@ -80,7 +80,6 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [GDLauncher](https://gdlauncher.com/) - Best Minecraft launcher supporting Vanilla, Fabric, Forge and FTB builds
         - [Gardiner Bryant's Guide to Install Minecraft on your Steam Deck](https://www.youtube.com/watch?v=ky7-vdorVC0)
 
-
 - **Steam Setup**
     - [MonroeWorld's Guide to Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
         - [SteamGridDB - Grid, Hero, Logo, Icon Assets](https://www.steamgriddb.com/)
@@ -148,3 +147,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [GamingOnLinux's Guide to Distrobox on the Steam Deck](https://www.gamingonlinux.com/2022/09/distrobox-can-open-up-the-steam-deck-to-a-whole-new-world/)
     - [Rwfus](https://github.com/ValShaped/rwfus) - Use pacman on the Steam Deck without losing packages when the next update comes out
     - [Automatically update installed flatpaks](https://www.reddit.com/r/SteamDeck/comments/zis9sf/psa_automatically_update_installed_flatpaks/) - setup systemd timers to update flatpaks
+
+## Miscellaneous
+- **Hardware Tips and Tricks**
+    - [Touchpad Circular Scrolling](https://www.reddit.com/r/SteamDeck/comments/10u45cp/for_those_who_dont_know_you_can_just_do_this/) - no need to flick up/down repeatedly, just scroll iPod wheel style
