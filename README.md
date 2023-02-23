@@ -88,6 +88,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [CryoByte33 Explaining Performance Boosts with swapfile, swappiness, and VRAM mods post-SteamOS 3.3.2](https://www.youtube.com/watch?v=od9_a1QQQns)
         - [CryoByte33's CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - User-friendly scripts to adjust swapfile, swappiness, and TRIM
         - [Increase Your swapfile Manually](https://www.reddit.com/r/SteamDeck/comments/waiujt/how_to_increase_the_swap_on_the_deck/)
+        - [CyroUtilities 2.0 Announcement](https://www.youtube.com/watch?v=C9EjXYZUqUs)
     - [Why the 40fps Hype is Real](https://www.reddit.com/r/SteamDeck/comments/udthpo/confusion_regarding_the_40hz_hype/) - The frametime and power consumption sweet spot
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
