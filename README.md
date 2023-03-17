@@ -95,6 +95,12 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Reddit Thread on Various Games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
     - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
 
+- **Windows**
+    - [How to Install Stock Windows on Steam Deck](https://www.tomshardware.com/how-to/install-windows-steam-deck)
+    - [What is tiny11? - An Alternative Stripped Down Version of Windows 11](https://www.youtube.com/watch?v=A_l0plCryFg)
+        - [Official tiny11 ISO Download Link](https://archive.org/details/tiny-11_202302)
+        - [tiny11builder - Build Your Own tiny11 image](https://github.com/ntdevlabs/tiny11builder)
+
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
         - [RetroGameCorps's EmuDeck Guide](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
@@ -120,6 +126,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
             - [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
                 - [Mr. Sujano's Ryujinx Emulator Guide](https://www.youtube.com/watch?v=kwAI9tO_fQ8)
                 - [Ryujinx Games Compatibility List](https://github.com/Ryujinx/Ryujinx-Games-List/issues)
+        - [Definitive Guide to Every Sonic Game](https://docs.google.com/document/d/1FsjXbyYQTIK9f9P_NYHoLGnv8_ZqHjgLPf9Qm0VMcVo/edit#)
     
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
