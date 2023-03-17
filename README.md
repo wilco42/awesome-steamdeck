@@ -100,6 +100,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [What is tiny11? - An Alternative Stripped Down Version of Windows 11](https://www.youtube.com/watch?v=A_l0plCryFg)
         - [Official tiny11 ISO Download Link](https://archive.org/details/tiny-11_202302)
         - [tiny11builder - Build Your Own tiny11 image](https://github.com/ntdevlabs/tiny11builder)
+    - [Steam Deck Tools](https://steam-deck-tools.ayufan.dev/) - Fan Control, Performance Overlay, Power Control for Windows
 
 - **Emulation**
     - [EmuDeck](https://www.emudeck.com/)
