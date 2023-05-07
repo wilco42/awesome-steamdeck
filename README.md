@@ -79,6 +79,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - tl;dr Use this for everything else like `Origin Games` and `Amazon Prime Gaming`
     - [GDLauncher](https://gdlauncher.com/) - Best Minecraft launcher supporting Vanilla, Fabric, Forge and FTB builds
         - [Gardiner Bryant's Guide to Install Minecraft on your Steam Deck](https://www.youtube.com/watch?v=ky7-vdorVC0)
+    - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Up and coming script to install many non-Steam Launchers under 1 Proton prefix 
 
 - **Steam Setup**
     - [MonroeWorld's Guide to Setting All Five Custom Artwork for Non-Steam Games](https://www.youtube.com/watch?v=CJsoGik7hLo)
