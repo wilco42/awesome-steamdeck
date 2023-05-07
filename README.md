@@ -139,8 +139,10 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader) - All plugins installed in the Decky Marketplace
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - Download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
         - [AutoFlatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - Manage Flatpaks within gaming mode
+        - [Game Theme Music](https://github.com/OMGDuke/SDH-GameThemeMusic) - Play theme songs on your game pages
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - Adjust CPU and GPU limits
         - [SteamGridDB](https://github.com/SteamGridDB/decky-steamgriddb) - Manage Steam artwork from within gaming mode
+        - [Storage Cleaner](https://github.com/mcarlucci/decky-storage-cleaner) - Manage shader cache and compatibility data
         - [vibrantDeck](https://github.com/libvibrant/vibrantDeck) - Adjust screen saturation / vibrancy
     - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage multiple versions of Proton-GE
     - [Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Allows you to manage Shader Caches stored in your internal storage.  Handy for 64GB owners who are running out of space on their Steam Deck.
