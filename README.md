@@ -125,11 +125,17 @@ A curated list of awesome things regarding Valve's Steam Deck.
             - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
                 - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
                 - [Yuzu Games Compatibility List](https://yuzu-emu.org/game/)
+                - [pinEApple Yuzu Early Access Builds](https://pineappleea.github.io/) - The latest yuzu EA builds 
             - [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
                 - [Mr. Sujano's Ryujinx Emulator Guide](https://www.youtube.com/watch?v=kwAI9tO_fQ8)
                 - [Ryujinx Games Compatibility List](https://github.com/Ryujinx/Ryujinx-Games-List/issues)
         - [Definitive Guide to Every Sonic Game](https://docs.google.com/document/d/1FsjXbyYQTIK9f9P_NYHoLGnv8_ZqHjgLPf9Qm0VMcVo/edit#)
-    
+        - [Nintendo GameCube and Wii Emulation](https://dolphin-emu.org/)
+            - [DolphinBar](https://www.mayflash.com/product/W010.html) - Wiimote to USB wireless sensor bar
+                - [Using DolphinBar with Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsfmkc/using_dolphinbar_with_steam_deck/) - The easiest way to connect Wiimotes to your Steam Deck
+            - [How to Create a Mii/Run the Mii Channel](https://forums.dolphin-emu.org/Thread-how-to-create-a-mii) - Create Miis to be used in games, you can also transfer your Miis via Wiimotes from your original Wii consoles
+            - [Use Audio Stretching to Fix Audio Stuttering](https://forums.dolphin-emu.org/Thread-dolphin-5-0-audio-stutter-crackling-audio-tied-to-framerate)
+
     - General Emulation Performance Fixes
         - [Stuttering Audio - Wrong FPS fix](https://www.reddit.com/r/SteamDeck/comments/v69ex5/dont_be_like_me_if_youre_experiencing_stutter_in/)
         - [Stuttering Audio - CPU SMT fix](https://www.reddit.com/r/SteamDeck/comments/uj4522/lpt_getting_emulator_stuttering_try_disabling_cpu/)
