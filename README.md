@@ -121,7 +121,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [ScummVM](https://www.scummvm.org/)
             - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
         - Nintendo Switch Emulation
-            - [Switch Emulation on Deck: Ryujinx vs. Yuzu Tested](https://linuxgamingcentral.com/posts/ryujinx-vs-yuzu-tested-on-deck/)
+            - [Alexwpi Game's Yuzu vs Ryujinx Emulators Performance Test in 50 Games - Updated 2023](https://www.youtube.com/watch?v=t2TAZv73VxA)
             - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
                 - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
                 - [Yuzu Games Compatibility List](https://yuzu-emu.org/game/)
