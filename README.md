@@ -65,6 +65,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
 
 - **Controllers**
   - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
+  - [GuliKit Replacement Joystick](https://www.gulikit.com/productinfo/1026071.html) - v2.0 [Hall Effect](https://thegamingsetup.com/guides/hall-effect-joysticks), no solder drop in replacement sticks
 
 ## Software Setup
 - **Non-Steam Game Installers**
