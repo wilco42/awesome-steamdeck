@@ -110,6 +110,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [Wagner's Tech Talk EmuDeck Guide](https://wagnerstechtalk.com/sd-emudeck/)
         - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - Managing ROMs in Steam
         - [Flatseal - Allow File System Access Outside of Flatpak Sandboxes](https://www.reddit.com/r/SteamDeck/comments/sr2915/steam_deck_emulators/)
+        - [Disney+, Hulu, Netflix, YouTube, etc. via Cloud Services Manager](https://www.youtube.com/watch?v=rkc-IjNuH20) - Streaming services in Game Mode
 
     - Emulator-specific
         - [Cemu - Wii U Emulator](https://cemu.info/)
