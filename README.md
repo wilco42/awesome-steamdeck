@@ -149,6 +149,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Decky Plugin Loader](https://github.com/SteamDeckHomebrew/decky-loader) - All plugins installed in the Decky Marketplace
         - [Animation Changer](https://github.com/TheLogicMaster/SDH-AnimationChanger) - Download, manage, and randomize boot/suspend animations from [SteamDeckRepo](https://steamdeckrepo.com/)
         - [AutoFlatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - Manage Flatpaks within gaming mode
+        - [Battery Tracker](https://github.com/safijari/steam-deck-battery-tracker#readme) - Track battery usage over time with graphs
         - [Game Theme Music](https://github.com/OMGDuke/SDH-GameThemeMusic) - Play theme songs on your game pages
         - [PowerTools Plugin](https://github.com/NGnius/PowerTools) - Adjust CPU and GPU limits
         - [SteamGridDB](https://github.com/SteamGridDB/decky-steamgriddb) - Manage Steam artwork from within gaming mode
