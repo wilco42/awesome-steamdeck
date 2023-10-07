@@ -131,6 +131,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
                 - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
                 - [Yuzu Games Compatibility List](https://yuzu-emu.org/game/)
                 - [pinEApple Yuzu Early Access Builds](https://pineappleea.github.io/) - The latest yuzu EA builds
+                - [YuzuUpdater.sh](https://gist.github.com/rusagent/683a1b13552082344f7ee6483b18a147) - A script to update yuzu to the latest version
                 - [Connecting Joy-Cons in Yuzu](https://www.reddit.com/r/EmuDeck/comments/142u17t/using_split_joycons_with_mariokart_issues_on_yuzu/)
             - [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
                 - [Mr. Sujano's Ryujinx Emulator Guide](https://www.youtube.com/watch?v=kwAI9tO_fQ8)
