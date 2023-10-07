@@ -140,7 +140,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [Nintendo GameCube and Wii Emulation](https://dolphin-emu.org/)
             - [DolphinBar](https://www.mayflash.com/product/W010.html) - Wiimote to USB wireless sensor bar
                 - [Using DolphinBar with Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsfmkc/using_dolphinbar_with_steam_deck/) - The easiest way to connect Wiimotes to your Steam Deck
-            - [Using 2 Candles Instead of a Sensor Bar to get the Wiimotes to work](https://www.reddit.com/r/SteamDeck/comments/12ewk6a/using_2_candles_to_play_wii_games_without_sensor/) | [Link 2](https://www.dkoldies.com/blog/you-can-use-candles-instead-of-the-wii-sensor-bar/) - This is not a joke
+            - [Using 2 Candles Instead of a Sensor Bar to Get the Wiimotes to Work](https://www.reddit.com/r/SteamDeck/comments/12ewk6a/using_2_candles_to_play_wii_games_without_sensor/) | [Link 2](https://www.dkoldies.com/blog/you-can-use-candles-instead-of-the-wii-sensor-bar/) - This is not a joke
             - [How to Create a Mii/Run the Mii Channel](https://forums.dolphin-emu.org/Thread-how-to-create-a-mii) - Create Miis to be used in games, you can also transfer your Miis via Wiimotes from your original Wii consoles
             - [Use Audio Stretching to Fix Audio Stuttering](https://forums.dolphin-emu.org/Thread-dolphin-5-0-audio-stutter-crackling-audio-tied-to-framerate)
 
