@@ -65,7 +65,10 @@ A curated list of awesome things regarding Valve's Steam Deck.
 
 - **Controllers**
   - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
-  - [GuliKit Replacement Joystick](https://www.gulikit.com/productinfo/1026071.html) - v2.0 [Hall Effect](https://thegamingsetup.com/guides/hall-effect-joysticks), no solder drop in replacement sticks
+  - [Aftermarket hall-sensor stick options and known issues](https://www.reddit.com/r/SteamDeck/comments/14m9a2w/aftermarket_hallsensor_stick_options_and_known/)
+    - [Hall Effect Joysticks - What is it and Why Does It Matter](https://thegamingsetup.com/guides/hall-effect-joysticks)
+    - [ElecGear Replacement Joystick](https://www.amazon.com/ElecGear-Replacement-Electromagnetic-No-Drifting-Controllers/dp/B0BVKT1JV7) - requires soldering, but functionally better than the GuliKit
+    - [GuliKit Hall Sensor Replacement Joystick v2](https://www.gulikit.com/productinfo/1026071.html) - no solder drop in replacement sticks, but known issues with a square outer deadzone
 
 ## Software Setup
 - **Non-Steam Game Installers**
