@@ -6,12 +6,17 @@ A curated list of awesome things regarding Valve's Steam Deck.
 - [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
 
 ## Which Steam Deck Should I Buy?
-- **The Glossy vs. Etched Glass Debate**
+- \*NEW\* [Steam Deck 256GB LCD, 512GB OLED, 1TB OLED](https://store.steampowered.com/steamdeck/)
+    - [Dave2D's OLED Screen comparisons](https://youtu.be/7FKJODmcdiM?si=2mtlm8mOqlY5xLGF&t=172)
+        - The 1TB OLED Etched Glass diminishes some of the benefits of an OLED screen
+        - The OLED versions have longer battery life vs. the LCD version
+        - The 512GB OLED model seems to be the model to get, particularly if you plan to do an SSD Upgrade
+- **The Glossy vs. Etched Glass Debate (1st Generation)**
     - [64/256GB Glossy Screen vs. 512GB Etched Glass Screen](https://www.reddit.com/r/SteamDeck/comments/ozcp0z/steam_deck_glass_vs_antiglare_etched_glass/)
-        - [RetroGameCorps's 64GB vs 512GB Model Comparison (Indoors)](https://www.youtube.com/watch?v=jApCGIFS1JI)
+        - [RetroGameCorps's 64GB vs 512GB Model Comparison - Indoors](https://www.youtube.com/watch?v=jApCGIFS1JI)
         - [NerdNest's Outdoor Comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
         - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
-- **Speed Differences of Internal Storage Options**
+- **Speed Differences of Internal Storage Options (1st Generation)**
     - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
  - **Limitations of the 64GB Model**
     - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/)
