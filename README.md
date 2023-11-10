@@ -18,7 +18,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
 - **Speed Differences of Internal Storage Options (1st Generation)**
     - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
- - **Limitations of the 64GB Model**
+ - **Limitations of the 64GB Model (1st Generation)**
     - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/)
     - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
