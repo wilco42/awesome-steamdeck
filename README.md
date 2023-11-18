@@ -12,6 +12,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - The 1TB OLED Etched Glass diminishes some of the benefits of an OLED screen
         - The OLED versions have longer battery life vs. the LCD version
         - The 512GB OLED model seems to be the model to get, particularly if you plan to do an SSD Upgrade
+    - [Steam OLED Reddit Megathread](https://www.reddit.com/r/SteamDeck/comments/17wih9s/megathread_steam_deck_oled/)
 - **The Glossy vs. Etched Glass Debate (1st Generation)**
     - [64/256GB Glossy Screen vs. 512GB Etched Glass Screen](https://www.reddit.com/r/SteamDeck/comments/ozcp0z/steam_deck_glass_vs_antiglare_etched_glass/)
         - [RetroGameCorps's 64GB vs 512GB Model Comparison - Indoors](https://www.youtube.com/watch?v=jApCGIFS1JI)
