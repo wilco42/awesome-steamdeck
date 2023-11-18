@@ -4,6 +4,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
 ## General Guides
 - [Wagner's Tech Talk Steam Deck Guide](https://wagnerstechtalk.com/steamdeck/)
 - [Mike Royal's Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
+- [Steam Sale Schedule](https://www.pcgamer.com/steam-sale-dates/) - Dates for all known Steam sales
 
 ## Which Steam Deck Should I Buy?
 - \*NEW\* [Steam Deck 256GB LCD, 512GB OLED, 1TB OLED](https://store.steampowered.com/steamdeck/)
