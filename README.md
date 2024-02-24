@@ -84,6 +84,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
         - Epic Games Fixes
             - [Celeste](https://www.youtube.com/watch?v=WGeHKRr0AmQ) - Black Screen Fix
+            - [Fall Guys](https://arvrtips.com/fall-guys-on-the-steam-deck/) - enabling Epic Online Services and EasyAntiCheat
             - [Red Dead Redemption 2](https://www.reddit.com/r/SteamDeck/comments/xzwuvf/red_dead_redemption_2_epic_games_version_now/) - Social Club Error Code 18
         - tl;dr Use this for `Epic Games` and `GOG`-based games
     - [Lutris](https://lutris.net/) - General Purpose Game Launcher
