@@ -80,6 +80,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
 
 ## Software Setup
 - **Non-Steam Game Installers**
+    - [Unifideck](https://github.com/mubaraknumann/unifideck) -  Epic Games, GOG, and Amazon games appear directly in your Steam library
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
         - Epic Games Fixes
