@@ -7,22 +7,12 @@ A curated list of awesome things regarding Valve's Steam Deck.
 - [Steam Sale Schedule](https://www.pcgamer.com/steam-sale-dates/) - Dates for all known Steam sales
 
 ## Which Steam Deck Should I Buy?
-- \*NEW\* [Steam Deck 256GB LCD, 512GB OLED, 1TB OLED](https://store.steampowered.com/steamdeck/)
+- [512GB OLED, 1TB OLED](https://store.steampowered.com/steamdeck/)
     - [Dave2D's OLED Screen comparisons](https://youtu.be/7FKJODmcdiM?si=2mtlm8mOqlY5xLGF&t=172)
         - The 1TB OLED Etched Glass diminishes some of the benefits of an OLED screen
         - The OLED versions have longer battery life vs. the LCD version
         - The 512GB OLED model seems to be the model to get, particularly if you plan to do an SSD Upgrade
     - [Steam OLED Reddit Megathread](https://www.reddit.com/r/SteamDeck/comments/17wih9s/megathread_steam_deck_oled/)
-- **The Glossy vs. Etched Glass Debate (1st Generation)**
-    - [64/256GB Glossy Screen vs. 512GB Etched Glass Screen](https://www.reddit.com/r/SteamDeck/comments/ozcp0z/steam_deck_glass_vs_antiglare_etched_glass/)
-        - [RetroGameCorps's 64GB vs 512GB Model Comparison - Indoors](https://www.youtube.com/watch?v=jApCGIFS1JI)
-        - [NerdNest's Outdoor Comparison](https://www.youtube.com/watch?v=U3XvcoBt_YI)
-        - [Tech Nuovo's Outdoor Comparison](https://www.youtube.com/watch?v=XtzQ9WrYr_8)
-- **Speed Differences of Internal Storage Options (1st Generation)**
-    - [Tech Nuovo's 64GB eMMC vs. 256GB/512GB SSD vs microSD Speed Comparison](https://www.youtube.com/watch?v=4AIY5wH77Po)
- - **Limitations of the 64GB Model (1st Generation)**
-    - [64GB Steam Deck and the Shader Cache](https://www.reddit.com/r/SteamDeck/comments/vu7s24/some_observations_with_the_64gb_steam_deck_shader/)
-    - [Semi-OK Hack to Move Shader Caches to microSD](https://www.reddit.com/r/SteamDeck/comments/tz9rza/is_shader_cache_and_compatdata_filling_your_64gb/)
 
 ## Accessories
 - **Storage (internal SSD)**
@@ -44,7 +34,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - tl;dr - Get a reputable U3 A2 UHS-I microSD card
 
 - **Screen protector**
-    - [For 512GB owners - Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
+    - [Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
     - [amFilm Screen Protector (Glossy)](https://www.amazon.com/amFilm-Screen-Protector-Compatible-Steam/dp/B09TPF6NQ8)
     - [MagGlass Matte Anti-glare Etched Glass Screen Protector](https://www.amazon.com/dp/B09X82S4XL/)
         - [Before and After Off-angle](https://www.reddit.com/r/SteamDeck/comments/tzgylh/before_and_after_applying_the_magglass_antiglare/)
@@ -55,21 +45,20 @@ A curated list of awesome things regarding Valve's Steam Deck.
 - **Case**
     - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/) - Larger Pouch with Shoulder Strap
     - [MVRPDXC Sling Bag-style Case](https://www.amazon.com/dp/B0B2QRVPGL/)
-    - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
     - [JSAUX Carrying Case](https://www.amazon.com/dp/B09ZB1RZ2G/)
+    - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
 
 - **Chargers and Docks**
     - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/) - Everything you need to know about charging your Steam Deck
-    - [ACEFAST GaN 65W Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock with USB-C, USB-A, and 4K/HD HDMI
-    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - The tiniest charger for your Steam Deck
+    - [Mirabox 65W GaN Charger w/ HDMI](https://www.amazon.com/dp/B0C8J4C1X4) - Combo charger and mini-dock with USB-C, USB-A, and 4K/HD HDMI
+    - [Anker Nano 45W Charger](https://www.amazon.com/dp/B0DPKRC84P) - The tiniest charger for your Steam Deck
     - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
     - [KUNSLUCK Stand Base](https://www.amazon.com/Stand-Valve-Steam-Anti-Slip-Silicone/dp/B09TW292LK) - Just a stand, not a dock with silicone padding
     - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
-    - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z)
+    - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B8X6H96S/)
 
 - **Power Banks**
-    - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
-    - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
+    - [Baseus Power Bank - 100W 20,000mAh](https://www.amazon.com/dp/B0FP26DDJB/) - TSA/Airplane safe
 
 - **Controllers**
   - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
@@ -81,7 +70,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
 ## Software Setup
 - **Non-Steam Game Installers**
     - [Unifideck](https://github.com/mubaraknumann/unifideck) -  Epic Games, GOG, and Amazon games appear directly in your Steam library
-    - [Heroic Games Launcher](https://heroicgameslauncher.com/) - The best `Epic Games` and `GOG` game launcher installer
+    - [Heroic Games Launcher](https://heroicgameslauncher.com/) - `Epic Games` and `GOG` game launcher installer
         - [Steam Deck Install Documentation](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/SteamDeck---Flatpak)
         - Epic Games Fixes
             - [Celeste](https://www.youtube.com/watch?v=WGeHKRr0AmQ) - Black Screen Fix
