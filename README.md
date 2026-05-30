@@ -125,17 +125,8 @@ A curated list of awesome things regarding Valve's Steam Deck.
             - [DJ Hero turntable support](https://wiki.rpcs3.net/index.php?title=Help:Peripherals_and_accessories)
         - [ScummVM](https://www.scummvm.org/)
             - [ScummVM - How to add ScummVM games to EmulationStationDE](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#scummvm)
-        - Nintendo Switch Emulation
-            - [Alexwpi Game's Yuzu vs Ryujinx Emulators Performance Test in 50 Games - Updated 2023](https://www.youtube.com/watch?v=t2TAZv73VxA)
-            - [Yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
-                - [OhNoItsAlexx's Yuzu Emulator Guide](https://www.youtube.com/watch?v=DvM8FzxDqHQ)
-                - [Yuzu Games Compatibility List](https://yuzu-emu.org/game/)
-                - [pinEApple Yuzu Early Access Builds](https://pineappleea.github.io/) - The latest yuzu EA builds
-                - [YuzuUpdater.sh](https://gist.github.com/rusagent/683a1b13552082344f7ee6483b18a147) - A script to update yuzu to the latest version
-                - [Connecting Joy-Cons in Yuzu](https://www.reddit.com/r/EmuDeck/comments/142u17t/using_split_joycons_with_mariokart_issues_on_yuzu/)
-            - [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
-                - [Mr. Sujano's Ryujinx Emulator Guide](https://www.youtube.com/watch?v=kwAI9tO_fQ8)
-                - [Ryujinx Games Compatibility List](https://github.com/Ryujinx/Ryujinx-Games-List/issues)
+        - [Eden - Nintendo Switch 1 Emulator](https://eden-emu.dev/)
+            - [The Ultimate Steam Deck Switch Emulation Guide](https://www.youtube.com/watch?v=WZ8UunuMLqc)
         - [Definitive Guide to Every Sonic Game](https://docs.google.com/document/d/1FsjXbyYQTIK9f9P_NYHoLGnv8_ZqHjgLPf9Qm0VMcVo/edit#)
         - [Nintendo GameCube and Wii Emulation](https://dolphin-emu.org/)
             - [DolphinBar](https://www.mayflash.com/product/W010.html) - Wiimote to USB wireless sensor bar
