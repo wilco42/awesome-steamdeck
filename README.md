@@ -97,6 +97,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Why the 40fps Hype is Real](https://www.reddit.com/r/SteamDeck/comments/udthpo/confusion_regarding_the_40hz_hype/) - The frametime and power consumption sweet spot
     - [Steam Deck HQ Game Settings](https://steamdeckhq.com/game-settings/)
     - [ShareDeck Game Settings](https://sharedeck.games/)
+    - [HandheldHQ Game Settings](https://handheldhq.io/device/steam-deck-oled/) - Per-game settings cross-checked across multiple guides, with tested FPS and battery
     - [Reddit Thread on Various Games](https://www.reddit.com/r/SteamDeck/comments/uk1ksk/optimized_steam_deck_performanceimage_quality/)
     - [ProtonDB](https://www.protondb.com) - Crowdsourced game compatibility reports
 
