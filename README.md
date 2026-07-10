@@ -172,3 +172,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Touchpad Circular Scrolling](https://www.reddit.com/r/SteamDeck/comments/10u45cp/for_those_who_dont_know_you_can_just_do_this/) - no need to flick up/down repeatedly, just scroll iPod wheel style
     - [Installing an AirTag in your Steam Deck](https://www.pcworld.com/article/620605/the-steam-deck-can-fit-an-apple-airtag-inside-with-no-modifications.html)
         - [Foxxhound29's tweak to insulate the airtag](https://www.reddit.com/r/SteamDeck/comments/yk1j5o/small_tweak_to_the_apple_airtag_on_steam_deck_no/) - Some folks recommend [kapton tape](https://www.amazon.com/s?k=kapton+tape) instead of electric tape
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
