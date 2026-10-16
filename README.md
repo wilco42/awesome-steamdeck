@@ -32,6 +32,7 @@ A curated list of awesome things regarding Valve's Steam Deck.
     - [Steam Deck Tech Specs](https://store.steampowered.com/steamdeck#SaleSection_24468) - UHS-I controller
     - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
     - tl;dr - Get a reputable U3 A2 UHS-I microSD card
+    - [FlashTester: Check a New microSD Card for Fake Capacity](https://flashtester.eu/) - Free, open source (Windows/Linux). Fills the card, reads it back and measures speed before you install games on it
 
 - **Screen protector**
     - [Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
